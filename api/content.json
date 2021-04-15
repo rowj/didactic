@@ -31,7 +31,7 @@
         {
             "ProjectID": "2",
             "Title": "Telegram chat-bot",
-            "Image": "https://raw.githubusercontent.com/aaiit/telegram-arabic-chat-bot/master/aaiit_bot.png",
+            "Image": "https:\/\/miro.medium.com\/max\/700\/1*7k77u72QwQecfuiFKXQNdQ.png",
             "Link": "https://github.com/aaiit/telegram-arabic-chat-bot",
             "Description": "The use of artificial neural networks to create chatbots is increasingly popular nowadays, however, teaching a computer to have natural conversations is very difficult and often requires large and complicated language models.",
             "TechStack": [
