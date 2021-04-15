@@ -2,7 +2,7 @@
     "Blogs": [
         {
             "BlogID": "1",
-            "Title": "IA",
+            "Title": "Build Transformer Arabic-chat-bot and deploy it on telegram",
             "Image": "https:\/\/miro.medium.com\/max\/700\/1*7k77u72QwQecfuiFKXQNdQ.png",
             "File": "https://aaiitt.medium.com/build-transformer-arabic-chat-bot-and-deploy-it-on-telegram-28865973ad06",
             "Description": "The use of artificial neural networks to create chatbots is increasingly popular nowadays, however, teaching a computer to have natural conversations is very difficult and often requires large and complicated language models.",
@@ -10,16 +10,36 @@
         }
     ],
     "Projects": [
+       
         {
             "ProjectID": "1",
+            "Title": "Train Arabic chatbot using Transformer ",
+            "Image": "https://1.bp.blogspot.com/-fud-eRLCZyM/XfgQhgh9KqI/AAAAAAAAB1Q/TWwASlTfimcFVTrvlRBGqm_FtAWfBcYWACLcBGAsYHQ/s1600/transformer.png",
+            "Link": "https://github.com/aaiit/transformer_chatbot_tf2",
+            "Description": "Preprocessing Arabic Dataset \n Implementing MultiHeadAttention with Model subclassing \n Implementing a Transformer with Functional API \n Save model in github",
+            "TechStack": [
+                "Python",
+                "Tensorflow2.0",
+                "Google Colab",
+                "Pandas",
+                "Transformer",
+                "text generation",
+                "attention",
+                "Git"
+            ]
+        },
+        {
+            "ProjectID": "2",
             "Title": "Telegram chat-bot",
             "Image": "https://raw.githubusercontent.com/aaiit/telegram-arabic-chat-bot/master/aaiit_bot.png",
-            "Link": "https://github.com/aaiit/telegram-chat-bot",
+            "Link": "https://github.com/aaiit/telegram-arabic-chat-bot",
             "Description": "The use of artificial neural networks to create chatbots is increasingly popular nowadays, however, teaching a computer to have natural conversations is very difficult and often requires large and complicated language models.",
             "TechStack": [
                 "Python",
+                "Tensorflow2.0",
                 "Telegram",
-                "Pandas"
+                "Pandas",
+                "Transformer"
             ]
          }
         
